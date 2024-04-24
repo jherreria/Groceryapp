@@ -8,6 +8,7 @@ Grocery Management tool with built-in Recipe integration and macro counter.
 
 - [Project Overview](#project-overview)
 - [Features](#features)
+- [Demo](#demo)
 - [Technologies](#technologies)
 - [Schema Diagram](#schema-diagram)
 - [Getting Started](#getting-started)
@@ -25,6 +26,10 @@ If a user puts in the items they have in the fridge, it can generate a list of r
 - [x] Analyze groceries in pantry
 - [x] Recipe generation
 - [x] Macro counter
+
+## Demo
+
+Check at youtube: https://www.youtube.com/watch?v=0-JFdHwGaQs
 
 ## Technologies
 
